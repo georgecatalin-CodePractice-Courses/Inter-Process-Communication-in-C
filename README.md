@@ -1,2 +1,2 @@
 # Inter-Process-Communication
-Code works that shows inter-process communication (IPC) in different programming languages
+Inteprocess-Communication (IPC) examples in C programming language.
